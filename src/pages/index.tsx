@@ -25,8 +25,8 @@ export default function Home() {
         </div>
         <div className="container my-5 mx-auto">
           <img
-            className="w-2/3 mx-auto mt-5"
-            src="/assets/start_building.svg"
+            className="md:w-2/3 mx-auto my-10"
+            src="/assets/processing.svg"
             alt="Start building"
           />
         </div>
